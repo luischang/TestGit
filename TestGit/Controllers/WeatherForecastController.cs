@@ -19,6 +19,7 @@ namespace TestGit.Controllers
         private readonly ILogger<WeatherForecastController> _logger;
 
         //New Comment
+        //Other comment
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
